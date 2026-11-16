@@ -90,6 +90,6 @@ I'm open to freelance projects and collaborations.
 
 - 💬 LinkedIn: [linkedin.com/in/tnsarkar](https://www.linkedin.com/in/tnsarkar)
 - 📧 Email: `touhi13@gmail.com`
-- 🌐 Portfolio: `touhidun.me`
+- 🌐 Portfolio: [touhidun.me](https://www.touhidun.me)
 
 <p align="center"><i>Thanks for stopping by! ⭐ If something here is useful to you, feel free to star a repo.</i></p>
