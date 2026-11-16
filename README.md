@@ -89,7 +89,7 @@ Beyond web development, I build **AI automation workflows** and **agentic chatbo
 I'm open to freelance projects and collaborations.
 
 - 💬 LinkedIn: [linkedin.com/in/tnsarkar](https://www.linkedin.com/in/tnsarkar)
-- 📧 Email: `your-email@example.com`
-- 🌐 Upwork / Portfolio: `your-link-here`
+- 📧 Email: `touhi13@gmail.com`
+- 🌐 Portfolio: `touhidun.me`
 
 <p align="center"><i>Thanks for stopping by! ⭐ If something here is useful to you, feel free to star a repo.</i></p>
